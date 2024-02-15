@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export WOKWI_CLI_TOKEN="your wokwi CI token"
+wokwi-cli .
